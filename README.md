@@ -1,8 +1,10 @@
-<h1>👋 Hi, I’m @ukasz1</h1>
-<h3>👀 I’m interested in ...</h3>
-<h3>🌱 I’m currently learning ...</h3>
-<h3>💞️ I’m looking to collaborate on ...</h3>
-<h3>📫 How to reach me ...</h3>
+<h2>Who am I</h2>
+A web designer with technical and economic education.
+<br />
+<br />
+I am interested in front-end developing - React, JS, HTML and all that goes with it. Broadning my knowledge in Javascript I find interesting and exiting. I like to know how the world around me works so I am also interested in back-end: Node, MongoDB. For last months I intensively expand my knowledge. In the future I would like to be a full-stack developer.
+<br /><br />
+Please feel free to see my repos and <a href="https://github.com/ukasz1/ukasz1/edit/main/README.md">achievements</a>.
 
 <!---
 ukasz1/ukasz1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
