@@ -2,7 +2,7 @@
 Hi. My name is Łukasz Mitkowski, and I am a web designer with a technical and economic education 👷‍♂️👨‍⚖️.
 \
 \
-I am interested in front-end developing - React, JS, HTML and all that goes with it. Exploring Javascript is very interesting and exciting for me ✨. I find that language very powerful. I like to know, how the world around me works, so I am also interested in back-end: Node, MongoDB. For last months I intensively expand my knowledge. In the future I would like to be a full-stack developer 👨‍💻.
+I am interested in front-end development - React, JS, HTML and all that goes with it. Exploring Javascript is very interesting and exciting for me ✨. I find that language very powerful. I like to know, how the world around me works, so I am also interested in back-end: Node, MongoDB. For last months I intensively expand my knowledge. In the future I would like to be a full-stack developer 👨‍💻.
 \
 \
 Please feel free to see my repos. You can also visit my <a href="https://mitkowski-portfolio.netlify.app/">online portfolio</a>.
